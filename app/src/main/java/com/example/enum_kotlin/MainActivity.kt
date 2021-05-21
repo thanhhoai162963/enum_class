@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 enum class NhanVien(var value:Int=0){
     AGE(10) {
         override fun Transfrom(): String {
-            return "555123213"
+            return "55512321312321312"
         }
 
         override fun toString(): String {
